@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Elif.</h1>
-- 🌱 I’m currently learning **EntityFramework and .Net Core**
-
-- 📝 I regularly write articles on [https://medium.com/@elifozsoy](https://medium.com/@elifozsoy)
 
 - 📫 How to reach me **ehozsoy@gmail.com**
 
