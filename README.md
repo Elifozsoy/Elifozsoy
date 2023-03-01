@@ -1,3 +1,6 @@
+<a href="https://medium.com/@elifozsoy">
+ </a>
+
 <h1 align="center">Hello World! I'm Elif👋.</h1>
 
 - 🌱 I’m currently learning **Information Security and Cyber Security.**
