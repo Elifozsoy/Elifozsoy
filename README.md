@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@elifozsoy](https://medium.com/@elifozsoy)
 
-- 🎓 I'm in **computer engineering master's thesis education.**
+- 🎓 I'm in **Computer Engineering master's thesis education.**
 
 - 👨‍💻 My master's thesis research is **Machine Learning Algorithms and Intrusion Detection Systems.**
 
