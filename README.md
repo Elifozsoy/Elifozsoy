@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=88276EEC&background=17474D00&width=448&height=92&lines=Hello+World!+I'm+Elif+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=B6367EDC&width=435&lines=merhabalarr+merhabalar+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <h1 align="center">Hello World! I'm Elif👋.</h1>
 
