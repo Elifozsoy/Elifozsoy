@@ -25,12 +25,12 @@
 
 <h3 align="middle">☕🍩Keyifli Okumalar Dilerim</h3>
 
-![vigenere](https://miro.medium.com/v2/resize:fill:126:126/1*H7U1RWg5RxLKBDRUwuXLMA.png) **[🤖 Pyhton ile Vigenere Şifreleme](https://medium.com/@elifozsoy/pyhton-ile-vigenere-%C5%9Fifreleme-a0fea2f6141b)**
+![vigenere](https://miro.medium.com/v2/resize:fill:126:126/1*H7U1RWg5RxLKBDRUwuXLMA.png) **[🐍 Pyhton ile Vigenere Şifreleme](https://medium.com/@elifozsoy/pyhton-ile-vigenere-%C5%9Fifreleme-a0fea2f6141b)**
 
-![powershell](https://miro.medium.com/v2/resize:fill:126:126/1*VovDr8H7Hk9rhm6ogjTtRQ.png) **[🤖 PowerShell ile Dosya Bütünlüğü Kontrolü](https://medium.com/@elifozsoy/powershell-ile-dosya-b%C3%BCt%C3%BCnl%C3%BC%C4%9F%C3%BC-kontrol%C3%BC-cf5dd0516367)**
+![powershell](https://miro.medium.com/v2/resize:fill:126:126/1*VovDr8H7Hk9rhm6ogjTtRQ.png) **[🦔 PowerShell ile Dosya Bütünlüğü Kontrolü](https://medium.com/@elifozsoy/powershell-ile-dosya-b%C3%BCt%C3%BCnl%C3%BC%C4%9F%C3%BC-kontrol%C3%BC-cf5dd0516367)**
 
-![cia](https://miro.medium.com/v2/resize:fill:126:126/1*TopWbb40DWxa_g6jFphliQ.jpeg) **[🤖 Bilgi Güvenliği ve Muhteşem Üçlüsü: CIA](https://medium.com/@elifozsoy/bilgi-g%C3%BCvenli%C4%9Fi-ve-muhte%C5%9Fem-%C3%BC%C3%A7l%C3%BCs%C3%BC-cia-b043a5c9c02e)**
+![cia](https://miro.medium.com/v2/resize:fill:126:126/1*TopWbb40DWxa_g6jFphliQ.jpeg) **[🐅 Bilgi Güvenliği ve Muhteşem Üçlüsü: CIA](https://medium.com/@elifozsoy/bilgi-g%C3%BCvenli%C4%9Fi-ve-muhte%C5%9Fem-%C3%BC%C3%A7l%C3%BCs%C3%BC-cia-b043a5c9c02e)**
 
-![sosyal müh](https://miro.medium.com/v2/resize:fill:126:126/1*WTN6JvQBI8wwk6rbByEvAg.png) **[🤖 Sosyal Müdenslik ve Saldırıları](https://medium.com/@elifozsoy/sosyal-m%C3%BChendislik-ve-sald%C4%B1r%C4%B1lar%C4%B1-946ed3284adc)**
+![sosyal müh](https://miro.medium.com/v2/resize:fill:126:126/1*WTN6JvQBI8wwk6rbByEvAg.png) **[🐮 Sosyal Müdenslik ve Saldırıları](https://medium.com/@elifozsoy/sosyal-m%C3%BChendislik-ve-sald%C4%B1r%C4%B1lar%C4%B1-946ed3284adc)**
 
-![steganografi](https://miro.medium.com/v2/resize:fill:126:126/1*baF3ku5I1TjEBF5Alg62Uw.png) **[🤖 Steganografi Nedir?](https://medium.com/@elifozsoy/steganografi-nedir-10021593f0b3)**
+![steganografi](https://miro.medium.com/v2/resize:fill:126:126/1*baF3ku5I1TjEBF5Alg62Uw.png) **[🦉 Steganografi Nedir?](https://medium.com/@elifozsoy/steganografi-nedir-10021593f0b3)**
