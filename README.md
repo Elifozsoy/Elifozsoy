@@ -25,7 +25,7 @@
 
 <h3 align="middle">Keyifli Okumalar Dilerim:</h3>
 
-![vigenere](https://miro.medium.com/v2/resize:fill:126:126/1*H7U1RWg5RxLKBDRUwuXLMA.png) **[<h3 align="up">Connect with me:</h3>e](https://medium.com/@elifozsoy/pyhton-ile-vigenere-%C5%9Fifreleme-a0fea2f6141b)**
+![vigenere](https://miro.medium.com/v2/resize:fill:126:126/1*H7U1RWg5RxLKBDRUwuXLMA.png) **[🤖 Pyhton ile Vigenere Şifreleme](https://medium.com/@elifozsoy/pyhton-ile-vigenere-%C5%9Fifreleme-a0fea2f6141b)**
 
 ![powershell](https://miro.medium.com/v2/resize:fill:126:126/1*VovDr8H7Hk9rhm6ogjTtRQ.png) **[🤖 PowerShell ile Dosya Bütünlüğü Kontrolü](https://medium.com/@elifozsoy/powershell-ile-dosya-b%C3%BCt%C3%BCnl%C3%BC%C4%9F%C3%BC-kontrol%C3%BC-cf5dd0516367)**
 
