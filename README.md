@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Information Security and Cyber Security.**
 
-- 📝 I regularly write articles on '[https://medium.com/@elifozsoy](https://medium.com/@elifozsoy)'
+- 📝 I regularly write articles on '[https://medium.com/@elifozsoy]'(https://medium.com/@elifozsoy)
 
 - 🎓 I'm in **Computer Engineering master's thesis education.**
 
