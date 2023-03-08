@@ -25,9 +25,7 @@
 
 <h3 align="middle">☕🍩Keyifli Okumalar Dilerim</h3>
 
-![vigenere](https://miro.medium.com/v2/resize:fill:126:126/1*H7U1RWg5RxLKBDRUwuXLMA.png) **[🐍 Pyhton ile Vigenere Şifreleme](https://medium.com/@elifozsoy/pyhton-ile-vigenere-%C5%9Fifreleme-a0fea2f6141b)**
-
-![powershell](https://miro.medium.com/v2/resize:fill:126:126/1*VovDr8H7Hk9rhm6ogjTtRQ.png) **[🦔 PowerShell ile Dosya Bütünlüğü Kontrolü](https://medium.com/@elifozsoy/powershell-ile-dosya-b%C3%BCt%C3%BCnl%C3%BC%C4%9F%C3%BC-kontrol%C3%BC-cf5dd0516367)**
+![vigenere](https://miro.medium.com/v2/resize:fill:126:126/1*H7U1RWg5RxLKBDRUwuXLMA.png) **[🐍 Pyhton ile Vigenere Şifreleme](https://medium.com/@elifozsoy/pyhton-ile-vigenere-%C5%9Fifreleme-a0fea2f6141b)**   ![powershell](https://miro.medium.com/v2/resize:fill:126:126/1*VovDr8H7Hk9rhm6ogjTtRQ.png) **[🦔 PowerShell ile Dosya Bütünlüğü Kontrolü](https://medium.com/@elifozsoy/powershell-ile-dosya-b%C3%BCt%C3%BCnl%C3%BC%C4%9F%C3%BC-kontrol%C3%BC-cf5dd0516367)**
 
 ![cia](https://miro.medium.com/v2/resize:fill:126:126/1*TopWbb40DWxa_g6jFphliQ.jpeg) **[🐅 Bilgi Güvenliği ve Muhteşem Üçlüsü: CIA](https://medium.com/@elifozsoy/bilgi-g%C3%BCvenli%C4%9Fi-ve-muhte%C5%9Fem-%C3%BC%C3%A7l%C3%BCs%C3%BC-cia-b043a5c9c02e)**
 
