@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! I'm Elif👋.</h1>
 
-- 🌱 I’m currently learning ** 'Information Security and Cyber Security.' **
+- 🌱 I’m currently learning '**Information Security and Cyber Security.**'
 
 - 📝 I regularly write articles on [https://medium.com/@elifozsoy](https://medium.com/@elifozsoy)
 
