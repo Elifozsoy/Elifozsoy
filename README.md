@@ -1,4 +1,4 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=54A2AC&center=true&vCenter=true&width=435&lines=Merhabalarr+merhablarr" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=54A2AC&center=true&vCenter=true&width=435&lines=Merabayın" alt="Typing SVG" /></a>
 
 <h1 align="center">Hello World! I'm Elif👩🏻‍💻.</h1>
 
