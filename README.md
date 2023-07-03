@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/elif-ozsoy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif-ozsoy1" height="30" width="40" /></a>
 <a href="https://instagram.com/computerwith_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="computerwith_e" height="30" width="40" /></a>
 <a href="https://medium.com/@elifozsoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elifozsoy" height="30" width="40" /></a>
-<a href="https://discord.gg/4297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4297" height="30" width="40" /></a>
+<a href="https://discord.gg/elifh." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4297" height="30" width="40" /></a>
 </p>
 
 
